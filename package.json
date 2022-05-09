@@ -1,0 +1,31 @@
+{
+  "name": "react-observer-hooks",
+  "version": "1.0.0",
+  "description": "A small React typescript library for sending events between components using observer pattern.",
+  "license": "MIT",
+  "author": "Eimantas Tučas <eimantast@wix.com>",
+  "main": "index.ts",
+  "homepage": "https://github.com/wix-incubator/react-observer-hooks#readme",
+  "bugs": {
+    "url": "https://github.com/wix-incubator/react-observer-hooks/issues"
+  },
+  "repository": {
+    "url": "git+https://github.com/wix-incubator/react-observer-hooks.git"
+  },
+  "scripts": {
+    "build": ":"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "react": "^16 || ^17"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "observer",
+    "events",
+    "hook",
+    "hooks"
+  ]
+}
