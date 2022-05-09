@@ -1,6 +1,6 @@
 {
   "name": "react-observer-hooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small React typescript library for sending events between components using observer pattern.",
   "license": "MIT",
   "author": "Eimantas Tučas <eimantast@wix.com>",

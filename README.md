@@ -47,7 +47,7 @@ export const PostFooter = ({parentId}: {parentId: string}) => {
 };
 ```
 
-## observe:
+### observe:
 
 ```ts
 export const BottomInput = ({parentId}: {parentId: string}) => {
