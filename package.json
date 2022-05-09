@@ -13,10 +13,16 @@
     "url": "git+https://github.com/wix-incubator/react-observer-hooks.git"
   },
   "scripts": {
-    "build": ":"
+    "build": "ts-node index.ts"
   },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/react": "^18.0.9",
+    "prettier": "^2.6.2",
+    "react": "^16",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  },
   "peerDependencies": {
     "react": "^16 || ^17"
   },
